@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.bryansm2910.twa",
-        "sha256_cert_fingerprints": ["64:49:77:74:32:57:E9:34:5B:EC:87:F6:03:07:D7:2A:DD:6F:B8:18:26:99:02:E3:D1:D7:0A:10:0D:F0:98:A3"]
+        "sha256_cert_fingerprints": ["C0:07:BA:56:C1:C9:BB:95:F8:12:54:20:62:3B:B3:7B:80:EB:47:74:91:D1:59:50:F2:6A:2A:41:F8:5C:FB:65"]
       }
     }]
